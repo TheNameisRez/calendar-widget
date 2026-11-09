@@ -24,7 +24,7 @@ Tested on Ubuntu 24.04 (GNOME). Windows and macOS are not supported
 ## Installation
 
 ```bash
-git clone https://github.com/<your-name>/calendar-widget.git
+git clone https://github.com/TheNamesRez/calendar-widget.git
 cd calendar-widget
 ./scripts/setup.sh
 ```
