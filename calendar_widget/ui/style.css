@@ -1,0 +1,39 @@
+window {
+    background-color: rgba(20, 20, 25, 0.80);
+}
+
+.day {
+    color: #8ab4f8;
+    font-weight: bold;
+    font-size: 11pt;
+    margin-top: 8px;
+}
+
+.today {
+    color: #f6c453;
+}
+
+.event {
+    color: #e8eaed;
+    font-size: 9.5pt;
+}
+
+.time {
+    color: #9aa0a6;
+    font-size: 9.5pt;
+}
+
+.empty {
+    color: #5f6368;
+    font-size: 9pt;
+}
+
+.plus {
+    background: #8ab4f8;
+    color: #202124;
+    font-weight: bold;
+    border-radius: 14px;
+    min-width: 28px;
+    min-height: 28px;
+    padding: 0;
+}

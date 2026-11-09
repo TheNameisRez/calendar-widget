@@ -1,0 +1,6 @@
+# Python packages for the calendar widget.
+# PyGObject / GTK 3 do NOT come from pip, but from the system packages:
+#   sudo apt install python3-gi gir1.2-gtk-3.0
+google-api-python-client>=2.0
+google-auth-oauthlib>=1.0
+google-auth-httplib2>=0.2
